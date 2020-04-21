@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_design_click_height">48dp</dimen>
+    <dimen name="material_design_spacing_small">4dp</dimen>
+    <dimen name="material_design_spacing_medium">8dp</dimen>
+    <dimen name="material_design_spacing_mediumlarge">12dp</dimen>
+    <dimen name="material_design_spacing_large">16dp</dimen>
+    <dimen name="material_design_spacing_xlarge">20dp</dimen>
+    <dimen name="material_design_spacing_xxlarge">24dp</dimen>
+
+<!--    Random Word -->
+    <dimen name="random_colour_strip_height">300dp</dimen>
+
+</resources>

@@ -1,0 +1,10 @@
+package com.heroku.myapp.randomcolour.di
+
+// Errors
+const val ERROR_UI_MAPPER = "ERROR_UI_MAPPER"
+
+// MAPPERS
+const val WORD_TO_COLOUR_MAPPER = "WORD_TO_COLOUR_MAPPER"
+
+// APIs
+const val RETROFIT_INSTANCE_RANDOM_WORD_API = "RETROFIT_INSTANCE_RANDOM_WORD_API"

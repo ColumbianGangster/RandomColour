@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomColour</string>
+
+    <string name="error_generic_message">Something went wrong</string>
+    <string name="error_no_network_message">No network connection</string>
+    <string name="error_no_network_title">Sorry</string>
+    <string name="label_main_body">Click on the button to change the background colour</string>
+    <string name="iv_main_content_description">Image of a randomly generated colour from the word above</string>
+    <string name="main_word_title">Your random word is...</string>
+    <string name="roll_the_dice">Roll the dice</string>
+</resources>
