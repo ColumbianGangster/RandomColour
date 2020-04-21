@@ -6,6 +6,6 @@ import org.koin.dsl.module
 val repositoryModules = module {
     single { RandomWordsRepository(
         randomWordApi = get(),
-        randomWordDataStore = get()
+        randomWordDataSource = get()
     ) }
 }
